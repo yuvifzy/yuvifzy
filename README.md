@@ -56,7 +56,7 @@ ai           Gemini API
 
 <div align="center">
 
-![Yuvraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuvifzy&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&icon_color=ffffff&count_private=true)
+![Yuvraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuvifzy&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&icon_color=ffffff)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvifzy&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888)
 
