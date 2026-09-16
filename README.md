@@ -24,8 +24,8 @@ I use AI-assisted workflows to ideate, prototype, and ship faster — keeping my
 
 | project | what it is | status |
 |---|---|---|
-| **[Munchify](https://github.com/yuvifzy/munchify)** | AI-powered local food discovery for India — Tinder-style dish swiping → taste profile → restaurant picks | 🔨 in progress |
 | **[Netherite](https://github.com/yuvifzy/netherite)** | macOS utility for floating windows & keyboard-first memos | 🔨 in progress |
+| **[Lamhey](https://github.com/yuvifzy/lamhey)** | product site for a home bakery in Bengaluru — story, menu, WhatsApp ordering. Next.js. → [live site](https://lamhey-bakehouse.vercel.app/) | 🔨 in progress |
 
 ---
 
@@ -37,18 +37,15 @@ I use AI-assisted workflows to ideate, prototype, and ship faster — keeping my
 
 **[Portfolio](https://yuvraj-mohana.vercel.app/)** — personal site with WebGL + Three.js visuals. Immersive, fast, mine.
 
+**[BeeHive](https://github.com/yuvifzy/BeeHive)** — AI-powered SSH honeypot for defensive security research. Fakes a real Linux server, classifies attacker intent, uses Gemini to generate convincing decoy files, and logs everything to a dashboard.
+
+**[Airsketch](https://github.com/yuvifzy/AirSKetch-v2)** — sketch in the air, see it on screen. React + TypeScript + Vite.
+
 ---
 
-### stack
+### dumped
 
-```
-languages    JS · Python · SQL · HTML/CSS
-frameworks   React · Next.js · Node.js · Vite · Framer Motion
-3d/graphics  Three.js · WebGL
-databases    Supabase · NeonDB · PostgreSQL
-tools        Git · Vercel · Render · Figma
-ai           Gemini API
-```
+**[Munchify](https://github.com/yuvifzy/munchify)** — AI-powered local food discovery for India. Tinder-style dish swiping → taste profile → restaurant picks.
 
 ---
 
