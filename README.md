@@ -41,23 +41,13 @@ I use AI-assisted workflows to ideate, prototype, and ship faster — keeping my
 
 **[Airsketch](https://github.com/yuvifzy/AirSKetch-v2)** — sketch in the air, see it on screen. React + TypeScript + Vite.
 
+**[StockSense](https://github.com/yuvifzy/StockSense)** — WhatsApp-native stock suggestions & demand forecasting for Indian kirana stores. Gemini for natural-language sales parsing, Prophet for forecasting.
+
 ---
 
 ### dumped
 
 **[Munchify](https://github.com/yuvifzy/munchify)** — AI-powered local food discovery for India. Tinder-style dish swiping → taste profile → restaurant picks.
-
----
-
-### stats
-
-<div align="center">
-
-![Yuvraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuvifzy&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&icon_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvifzy&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888)
-
-</div>
 
 ---
 
